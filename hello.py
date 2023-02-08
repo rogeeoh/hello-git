@@ -1,5 +1,5 @@
 print("Hello Python!")
-print("This is Version 2")
+print("This is Version 3")
 
 # git: 코드를 버전관리 하는 도구. 세이브파일과 비슷한 역할.
 # git init : 깃을 사용하기 위한 명령어. 처음 한번만 싦행하면 됨
